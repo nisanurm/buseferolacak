@@ -1,4 +1,6 @@
 #Nisanur's (2ndstudent) Answer to Question 2
+
+
 **Question2**Please assign variables to the individual components of your favorite gene! (e.g.promoter, 5' UTR, start codon, exon1, intron, exon2, stop codon, 3' UTR).
 
 
